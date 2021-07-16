@@ -1,1 +1,1 @@
-![counter](https://anandsiddharth.m.pipedream.net)
+![Views](https://komarev.com/ghpvc/?username=anandsiddharth)
